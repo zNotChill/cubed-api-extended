@@ -1,0 +1,1 @@
+// https://cubedcraft.com/suggestions/search_api/?q=
